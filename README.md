@@ -1,6 +1,10 @@
 # Welcome to My Fake Fitness App 
 **based off of this comprehensive course:** [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight)
 
+## DEMO
+![MFFA-Demo](https://user-images.githubusercontent.com/20034374/222983526-fe13008f-e509-4d59-8f7f-b9bc500725cd.gif)
+
+
 ## Get Started
 
 1. **Install [Node 8](https://nodejs.org)** or newer. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)(https://github.com/coryhouse/pluralsight-redux-starter/archive/master.zip)
