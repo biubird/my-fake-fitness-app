@@ -1,4 +1,5 @@
-# Welcome to My Fake Fitness App (based off of this comprehensive course: [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight))
+# Welcome to My Fake Fitness App 
+**based off of this comprehensive course:** [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight)
 
 ## Get Started
 
