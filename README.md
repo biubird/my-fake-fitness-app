@@ -1,11 +1,19 @@
-# Welcome to My Fake Fitness App (based off of this comprehensive course: [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight))
+# Welcome to My Fake Fitness App 
+**Based off of this comprehensive course:** [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight)
+## About Me: 
+I'm a full stack senior software engineer, with a primary focus on front-end apps. Here's my [LinkedIn Bio!](https://www.linkedin.com/in/heather-renee-may/) Let's Connect!
+## DEMO
+![MFFA-Demo](https://user-images.githubusercontent.com/20034374/222983526-fe13008f-e509-4d59-8f7f-b9bc500725cd.gif)
+
 
 ## Get Started
 
-1. **Install [Node 8](https://nodejs.org)** or newer. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)(https://github.com/coryhouse/pluralsight-redux-starter/archive/master.zip)
+1. **Install [Node 8](https://nodejs.org)** or newer.
 2. **Navigate to this project's root directory on the command line.**
 3. **Install Node Packages.** - `npm install`
 4. **Install [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) and [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)** in Chrome.
+5. **Run Production Build** - `npm run build` (you will see the webpackBundleAnalyzer pop up in a browser window)
+6. **Navigate to http://192.168.1.45:8080 to see the App**
 5. Having issues? See below.
 
 ## Having Issues? Try these things first:
@@ -69,3 +77,5 @@
 | webpack-bundle-analyzer            | Generate report of what's in the app's production bundle         |
 | webpack-cli                        | Run Webpack via the command line                                 |
 | webpack-dev-server                 | Serve app via Webpack                                            |
+
+## Thanks For Visiting! 
