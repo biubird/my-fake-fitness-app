@@ -13,9 +13,10 @@ I'm a full stack senior software engineer, with a primary focus on front-end app
 3. **Install Node Packages.** - `npm install`
 4. **Install [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) and [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)** in Chrome.
 5. **Run Tests** - `npm t`
-6. **Run Production Build** - `npm run build` (the bundle.js has been minified and you will see the webpackBundleAnalyzer pop up in a browser window)
-7. **Navigate to http://192.168.1.45:8080 to see the App**
-8. Having issues? See below.
+6. **Run Locally** - `npm start`
+7. **Run Production Build Locally** - `npm run build` (the bundle.js has been minified and you will see the webpackBundleAnalyzer pop up in a browser window)
+8. **Navigate to http://192.168.1.45:8080 to see the App**
+9. Having issues? See below.
 
 ## Having Issues? Try these things first:
 
